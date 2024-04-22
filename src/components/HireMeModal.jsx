@@ -4,7 +4,7 @@ import Button from './reusable/Button';
 
 const selectOptions = [
 	'Web Application',
-	'Mobile Application',
+	// 'Mobile Application',
 	'UI/UX Design',
 	'Branding',
 ];
@@ -90,7 +90,7 @@ const HireMeModal = ({ onClose, onRequest }) => {
 										id="message"
 										name="message"
 										cols="14"
-										rows="6"
+										rows="4"
 										aria-label="Details"
 										placeholder="Project description"
 									></textarea>

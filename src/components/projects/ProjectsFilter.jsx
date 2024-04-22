@@ -1,6 +1,6 @@
 const selectOptions = [
 	'Web Application',
-	'Mobile Application',
+	// 'Mobile Application',
 	'UI/UX Design',
 	'Branding',
 ];

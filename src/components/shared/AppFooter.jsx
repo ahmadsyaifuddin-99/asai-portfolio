@@ -3,6 +3,7 @@ import {
 	FiTwitter,
 	FiLinkedin,
 	FiGlobe,
+	FiTiktok,
 	FiYoutube,
 	FiInstagram,
 } from 'react-icons/fi';
